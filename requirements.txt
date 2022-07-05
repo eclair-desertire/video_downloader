@@ -1,1 +1,3 @@
+py2app
 pytube
+auto-py-to-exe
