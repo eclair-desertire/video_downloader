@@ -1,10 +1,8 @@
-import pdb
 import threading
 from tkinter import *
 from tkinter import font
 from pytube import YouTube
 
-pdb.set_trace()
 
 root=Tk()
 root.geometry("500x300")
